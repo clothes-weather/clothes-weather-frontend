@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a81fe1e5-fb11-49cd-bfb8-b93dc0098f73" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/.idea/sonarlint/issuestore/2/2/22c9ba38725106f0de3a9e95adfaf7003b72fcb8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/.idea/sonarlint/issuestore/7/c/7cb7546a7bda7437359a1f34605c207e7656fa3f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/api-gateway/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/api-gateway/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/api-gateway/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/api-gateway/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/api-gateway/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/api-gateway/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/api-gateway/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/api-gateway/src/main/kotlin/com/cw/apigateway/ApiGatewayApplication.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/api-gateway/src/main/kotlin/com/cw/apigateway/configs/SecurityConfig.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/api-gateway/src/main/kotlin/com/cw/apigateway/configs/WebConfig.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/api-gateway/src/main/kotlin/com/cw/apigateway/controllers/Controller.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/api-gateway/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/api-gateway/src/test/kotlin/com/cw/apigateway/ApiGatewayApplicationTests.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/config-server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/config-server/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/config-server/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/config-server/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/config-server/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/config-server/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/config-server/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/config-server/src/main/kotlin/com/cw/configserver/ConfigServerApplication.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/config-server/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/config-server/src/test/kotlin/com/cw/configserver/ConfigServerApplicationTests.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/eureka-server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/eureka-server/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/eureka-server/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/eureka-server/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/eureka-server/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/eureka-server/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/eureka-server/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/eureka-server/src/main/kotlin/com/cw/eurekaserver/EurekaServerApplication.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/eureka-server/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/eureka-server/src/test/kotlin/com/cw/eurekaserver/EurekaServerApplicationTests.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/mongo-init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/weather-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/weather-service/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/weather-service/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/weather-service/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/weather-service/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/weather-service/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/weather-service/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/weather-service/src/main/kotlin/com/cw/clothesweather/WeatherApplication.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/weather-service/src/main/kotlin/com/cw/clothesweather/configs/ResourceServerConfig.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/weather-service/src/main/kotlin/com/cw/clothesweather/configs/SwaggerConfig.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/weather-service/src/main/kotlin/com/cw/clothesweather/configs/WebClientConfig.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/weather-service/src/main/kotlin/com/cw/clothesweather/controllers/WeatherController.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/weather-service/src/main/kotlin/com/cw/clothesweather/dtos/UserDTO.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/weather-service/src/main/kotlin/com/cw/clothesweather/mappers/Mapper.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/weather-service/src/main/kotlin/com/cw/clothesweather/mappers/UserMapper.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/weather-service/src/main/kotlin/com/cw/clothesweather/models/User.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/weather-service/src/main/kotlin/com/cw/clothesweather/repositories/UserRepository.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/weather-service/src/main/kotlin/com/cw/clothesweather/security/RealmRoleConverter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/weather-service/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clothes-weather-backend/weather-service/src/test/kotlin/com/cw/clothesweather/ClothesweatherApplicationTests.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/global/GlobalSvgSelector.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/indicators/IndicatorSvgSelector.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/cloud.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/Day.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/Item.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/Tab.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Home/Home.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Home/Home.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Home/components/Days/Card.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Home/components/Days/Days.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Home/components/Days/Days.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Home/components/Days/Tabs.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Home/components/ThisDay/ThisDay.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Home/components/ThisDay/ThisDay.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Home/components/ThisDayInfo/ThisDayInfo.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Home/components/ThisDayInfo/ThisDayInfo.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Home/components/ThisDayInfo/ThisDayItem.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/MonthStatistics/MonthStatistics.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/MonthStatistics/MonthStatistics.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react-app-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/Header/Header.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/Header/Header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/Popup/Popup.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/Popup/Popup.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="27b9s1nDDZb3XLPgigVxTZ0DIEy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/pages/Home/components/ThisDay" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="MTHome" />
+    <property name="ts.external.directory.path" value="C:\Users\MaDeLa\IdeaProjects\clothes-weather-frontend\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MaDeLa\IdeaProjects\clothes-weather-frontend\src\pages\Home\components\ThisDay" />
+      <recent name="C:\Users\MaDeLa\IdeaProjects\clothes-weather-frontend\src\pages\Home\components\ThisDayInfo" />
+      <recent name="C:\Users\MaDeLa\IdeaProjects\clothes-weather-frontend\src\pages\MonthStatistics" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MaDeLa\IdeaProjects\clothes-weather-frontend\src\assets\icons" />
+      <recent name="C:\Users\MaDeLa\IdeaProjects\clothes-weather-frontend\src\assets" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a81fe1e5-fb11-49cd-bfb8-b93dc0098f73" name="Changes" comment="" />
+      <created>1649578122453</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649578122453</updated>
+      <workItem from="1649578125055" duration="3965000" />
+      <workItem from="1649594776557" duration="3504000" />
+      <workItem from="1649614809075" duration="32000" />
+      <workItem from="1649615263288" duration="2069000" />
+      <workItem from="1649619540491" duration="6145000" />
+      <workItem from="1649626080767" duration="669000" />
+      <workItem from="1649657804081" duration="46000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
